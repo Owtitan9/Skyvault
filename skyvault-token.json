@@ -1,0 +1,21 @@
+{
+  "name": "SkyVault",
+  "symbol": "SKYV",
+  "description": "SkyVault is a Solana-based token for visionary traders and cosmic investors. Secure, sleek, and soaring into the future.",
+  "image": "https://raw.githubusercontent.com/Owtitan9/Skyvault/main/skyvault-logo.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Owtitan9/Skyvault/main/skyvault-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EdUkz2bpaM1wQoX36w3Jsi2ynRYJkwyamPo2azJgGWXc",
+        "share": 100
+      }
+    ]
+  }
+}
